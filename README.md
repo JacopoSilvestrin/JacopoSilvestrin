@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JacopoSilvestrin
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Reinforcement Learning
-- 💞️ I’m looking to collaborate on Non-Stationary Rl/ Continual and Lifelong RL
+- 💞️ I’m looking to collaborate on Non-Stationary RL/ Continual and Lifelong RL
 - 📫 How to reach me: jacopo.silvestrin@tecnico.ulisboa.it
 
 <!---
